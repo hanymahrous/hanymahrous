@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Hany Mahrous from Egypt<br><br>- 🔭 I’m working as Back-End Developer<br>- 📚 I'm currently learning Flutter</p>
+<p align="left">I'm Hany Mahrous from Egypt<br><br>- 📚 I'm currently learning Flutter</p>
 
 ###
 
